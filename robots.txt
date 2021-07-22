@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /cities/getCityTrucksTimeFrame/
+Disallow: /experiential-marketing-agency/&lt;/p&gt;/
+Disallow: /comments/
+Sitemap: https://roaminghunger.com/sitemap.xml
+
+User-agent: AhrefsBot
+Crawl-Delay: 3
